@@ -17,7 +17,7 @@ void ending()
     cout<<"E-MAIL: minhazkamal@iut-dhaka.edu"<<endl<<endl;
 
     cout<<"Press any key to close the window...\n\n";
-    //getch();
+    getch();
 }
 
 
