@@ -54,6 +54,7 @@ void ShopBalance::profitByDate()
     else
     {
         fflush(stdin);
+        double sum_sc=0, sum_bc=0, sum_p=0;
         cout<<"\nEnter the month and the year in (DD/MM/YYYY) format: ";
         cin>>s_d;
         if(s_d.length()==10)
@@ -62,11 +63,15 @@ void ShopBalance::profitByDate()
             {
                 if(this->date==s_d)
                 {
-                    display(s_d);
-                    cout<<right<<setw(10)<<this->sellingCost<<setw(15)<<this->buyingCost<<setw(16)<<this->profit<<endl;
-                    fin.close();
+                    sum_sc=this->sellingCost;
+                    sum_bc=this->buyingCost;
+                    sum_p=this->profit;
+                    break;
                 }
             }
+            display(s_d);
+            cout<<right<<setw(10)<<sum_sc<<setw(15)<<sum_bc<<setw(16)<<sum_p<<endl;
+            fin.close();
         }
         else
         {
