@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="IUT_CDS" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/IUT_CDS" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+					<Add directory="include" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/IUT_CDS" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+					<Add directory="include" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+		</Compiler>
+		<Unit filename="include/Date.h" />
+		<Unit filename="include/People.h" />
+		<Unit filename="include/ShopAdmin.h" />
+		<Unit filename="include/ShopBalance.h" />
+		<Unit filename="include/billingMenu.h" />
+		<Unit filename="include/clearScreen.h" />
+		<Unit filename="include/customer.h" />
+		<Unit filename="include/customerWrite.h" />
+		<Unit filename="include/grocery.h" />
+		<Unit filename="include/logIN.h" />
+		<Unit filename="include/mainMenu.h" />
+		<Unit filename="include/option.h" />
+		<Unit filename="include/profitMenu.h">
+			<Option target="&lt;{~None~}&gt;" />
+		</Unit>
+		<Unit filename="include/purchase.h" />
+		<Unit filename="include/purchaseWrite.h" />
+		<Unit filename="include/searchBill.h" />
+		<Unit filename="include/staff.h" />
+		<Unit filename="include/stockData.h" />
+		<Unit filename="include/stockPurchase.h" />
+		<Unit filename="src/Date.cpp" />
+		<Unit filename="src/People.cpp" />
+		<Unit filename="src/ShopAdmin.cpp" />
+		<Unit filename="src/ShopBalance.cpp" />
+		<Unit filename="src/Staff.cpp" />
+		<Unit filename="src/customer.cpp" />
+		<Unit filename="src/grocery.cpp" />
+		<Unit filename="src/main.cpp" />
+		<Unit filename="src/purchase.cpp" />
+		<Extensions>
+			<code_completion />
+			<envvars />
+			<debugger />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

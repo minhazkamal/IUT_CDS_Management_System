@@ -1,0 +1,395 @@
+# depslib dependency file v1.0
+1596888466 source:c:\users\minha\desktop\oop project\iut_cds\src\main.cpp
+	<bits/stdc++.h>
+	"logIN.h"
+	"ShopAdmin.h"
+	"staff.h"
+	"purchaseWrite.h"
+	"customerWrite.h"
+	"searchBill.h"
+
+1595787527 c:\users\minha\desktop\oop project\iut_cds\include\staff.h
+	<bits/stdc++.h>
+	"People.h"
+
+1595788529 source:c:\users\minha\desktop\oop project\iut_cds\src\staff.cpp
+	<bits/stdc++.h>
+	"staff.h"
+
+1596883933 source:c:\users\minha\desktop\oop project\iut_cds\src\grocery.cpp
+	<bits/stdc++.h>
+	"grocery.h"
+
+1596882502 c:\users\minha\desktop\oop project\iut_cds\include\grocery.h
+
+1595599642 c:\users\minha\desktop\oop project\iut_cds\include\purchase.h
+	"grocery.h"
+
+1595612958 source:c:\users\minha\desktop\oop project\iut_cds\src\purchase.cpp
+	<bits/stdc++.h>
+	"purchase.h"
+	"grocery.h"
+
+1596884126 source:c:\users\minha\desktop\oop project\iut_cds\src\customer.cpp
+	<bits/stdc++.h>
+	"customer.h"
+	"grocery.h"
+
+1595599642 c:\users\minha\desktop\oop project\iut_cds\include\customer.h
+	<grocery.h>
+
+1595777961 source:c:\users\minha\desktop\oop project\iut_cds\src\shopadmin.cpp
+	"ShopAdmin.h"
+	<iostream>
+	<string>
+	<string.h>
+	<fstream>
+	<iomanip>
+
+1595777057 c:\users\minha\desktop\oop project\iut_cds\include\shopadmin.h
+	"People.h"
+
+1595575883 source:c:\users\minha\desktop\oop project\iut_cds\src\shopbalance.cpp
+	"ShopBalance.h"
+	<iostream>
+	<string>
+	<string.h>
+	<fstream>
+	<iomanip>
+
+1595582234 c:\users\minha\desktop\oop project\iut_cds\include\shopbalance.h
+
+1595787886 c:\users\minha\desktop\oop project\iut_cds\include\login.h
+	"staff.h"
+	<bits/stdc++.h>
+	"mainMenu.h"
+	"ShopAdmin.h"
+
+1595789083 c:\users\minha\desktop\oop project\iut_cds\include\mainmenu.h
+	<bits/stdc++.h>
+	"billingMenu.h"
+	"stockData.h"
+	"stockPurchase.h"
+	"option.h"
+
+1595601416 c:\users\minha\desktop\oop project\iut_cds\include\billingmenu.h
+	<bits/stdc++.h>
+	"customer.h"
+
+1596888290 c:\users\minha\desktop\oop project\iut_cds\include\searchbill.h
+	<bits/stdc++.h>
+	"customer.h"
+	"grocery.h"
+
+1596888466 c:\users\minha\desktop\oop project\iut_cds\include\customerwrite.h
+	<bits/stdc++.h>
+	"grocery.h"
+	"customer.h"
+
+1595587103 c:\users\minha\desktop\oop project\iut_cds\include\stockdata.h
+	<bits/stdc++.h>
+	"grocery.h"
+
+1595601423 c:\users\minha\desktop\oop project\iut_cds\include\stockpurchase.h
+	<bits/stdc++.h>
+	"purchase.h"
+	"grocery.h"
+
+1597478729 c:\users\minha\desktop\oop project\iut_cds\include\purchasewrite.h
+	<bits/stdc++.h>
+	"purchase.h"
+	"grocery.h"
+
+1595788714 c:\users\minha\desktop\oop project\iut_cds\include\option.h
+	<bits/stdc++.h>
+	"staff.h"
+	"ShopAdmin.h"
+
+1595785190 c:\users\minha\desktop\oop project\iut_cds\include\people.h
+	<bits/stdc++.h>
+
+1595785170 source:c:\users\minha\desktop\oop project\iut_cds\src\people.cpp
+	<bits/stdc++.h>
+	"People.h"
+
+1599154330 source:c:\users\minha\desktop\desktop files\oop project\iut_cds\src\customer.cpp
+	<bits/stdc++.h>
+	"customer.h"
+	"grocery.h"
+	"Date.h"
+
+1599157776 c:\users\minha\desktop\desktop files\oop project\iut_cds\include\customer.h
+	<grocery.h>
+
+1596882502 c:\users\minha\desktop\desktop files\oop project\iut_cds\include\grocery.h
+
+1599157526 source:c:\users\minha\desktop\desktop files\oop project\iut_cds\src\grocery.cpp
+	<bits/stdc++.h>
+	"grocery.h"
+	"Date.h"
+
+1599164269 source:c:\users\minha\desktop\desktop files\oop project\iut_cds\src\main.cpp
+	<bits/stdc++.h>
+	"logIN.h"
+	"ShopAdmin.h"
+	"ShopBalance.h"
+	"staff.h"
+	"purchaseWrite.h"
+	"customerWrite.h"
+	"searchBill.h"
+
+1598541731 c:\users\minha\desktop\desktop files\oop project\iut_cds\include\login.h
+	"staff.h"
+	<bits/stdc++.h>
+	"mainMenu.h"
+	"ShopAdmin.h"
+
+1599033605 c:\users\minha\desktop\desktop files\oop project\iut_cds\include\staff.h
+	<bits/stdc++.h>
+	"People.h"
+
+1599033605 c:\users\minha\desktop\desktop files\oop project\iut_cds\include\people.h
+	<bits/stdc++.h>
+
+1599165591 c:\users\minha\desktop\desktop files\oop project\iut_cds\include\mainmenu.h
+	<bits/stdc++.h>
+	"billingMenu.h"
+	"stockData.h"
+	"stockPurchase.h"
+	"option.h"
+	"profitMenu.h"
+
+1598971674 c:\users\minha\desktop\desktop files\oop project\iut_cds\include\billingmenu.h
+	<bits/stdc++.h>
+	"customer.h"
+
+1599033605 c:\users\minha\desktop\desktop files\oop project\iut_cds\include\stockdata.h
+	<bits/stdc++.h>
+	"grocery.h"
+
+1599033605 c:\users\minha\desktop\desktop files\oop project\iut_cds\include\stockpurchase.h
+	<bits/stdc++.h>
+	"purchase.h"
+	"grocery.h"
+
+1599157776 c:\users\minha\desktop\desktop files\oop project\iut_cds\include\purchase.h
+	"grocery.h"
+
+1599059143 c:\users\minha\desktop\desktop files\oop project\iut_cds\include\option.h
+	<bits/stdc++.h>
+	"staff.h"
+	"ShopAdmin.h"
+
+1599033605 c:\users\minha\desktop\desktop files\oop project\iut_cds\include\shopadmin.h
+	"People.h"
+
+1599156344 c:\users\minha\desktop\desktop files\oop project\iut_cds\include\purchasewrite.h
+	<bits/stdc++.h>
+	"purchase.h"
+	"grocery.h"
+	"Date.h"
+	"ShopBalance.h"
+
+1599155955 c:\users\minha\desktop\desktop files\oop project\iut_cds\include\customerwrite.h
+	<bits/stdc++.h>
+	"grocery.h"
+	"customer.h"
+	"Date.h"
+
+1599054770 c:\users\minha\desktop\desktop files\oop project\iut_cds\include\searchbill.h
+	<bits/stdc++.h>
+	"customer.h"
+	"grocery.h"
+
+1595785170 source:c:\users\minha\desktop\desktop files\oop project\iut_cds\src\people.cpp
+	<bits/stdc++.h>
+	"People.h"
+
+1599157526 source:c:\users\minha\desktop\desktop files\oop project\iut_cds\src\purchase.cpp
+	<bits/stdc++.h>
+	"purchase.h"
+	"grocery.h"
+	"Date.h"
+
+1598538545 source:c:\users\minha\desktop\desktop files\oop project\iut_cds\src\shopadmin.cpp
+	"ShopAdmin.h"
+	<iostream>
+	<string>
+	<string.h>
+	<fstream>
+	<iomanip>
+
+1599166565 source:c:\users\minha\desktop\desktop files\oop project\iut_cds\src\shopbalance.cpp
+	"ShopBalance.h"
+	<bits/stdc++.h>
+	"purchase.h"
+	"customer.h"
+
+1599163713 c:\users\minha\desktop\desktop files\oop project\iut_cds\include\shopbalance.h
+	<bits/stdc++.h>
+
+1598539164 source:c:\users\minha\desktop\desktop files\oop project\iut_cds\src\staff.cpp
+	<bits/stdc++.h>
+	"staff.h"
+
+1598558421 c:\users\minha\desktop\desktop files\oop project\iut_cds\include\systemdate.h
+
+1598558947 source:c:\users\minha\desktop\desktop files\oop project\iut_cds\src\date.cpp
+	<bits/stdc++.h>
+	<ctime>
+	"Date.h"
+
+1598558947 c:\users\minha\desktop\desktop files\oop project\iut_cds\include\date.h
+
+1599164430 c:\users\minha\desktop\desktop files\oop project\iut_cds\include\profitmenu.h
+	"ShopBalance.h"
+
+1599759375 source:c:\users\minha\desktop\desktop_files\oop project\iut_cds\src\customer.cpp
+	<bits/stdc++.h>
+	"customer.h"
+	"grocery.h"
+	"Date.h"
+
+1599759375 c:\users\minha\desktop\desktop_files\oop project\iut_cds\include\customer.h
+	<grocery.h>
+
+1596882502 c:\users\minha\desktop\desktop_files\oop project\iut_cds\include\grocery.h
+
+1598558947 c:\users\minha\desktop\desktop_files\oop project\iut_cds\include\date.h
+
+1598558947 source:c:\users\minha\desktop\desktop_files\oop project\iut_cds\src\date.cpp
+	<bits/stdc++.h>
+	<ctime>
+	"Date.h"
+
+1599759375 source:c:\users\minha\desktop\desktop_files\oop project\iut_cds\src\grocery.cpp
+	<bits/stdc++.h>
+	"grocery.h"
+	"Date.h"
+
+1599662573 source:c:\users\minha\desktop\desktop_files\oop project\iut_cds\src\main.cpp
+	<bits/stdc++.h>
+	<windows.h>
+	"logIN.h"
+	"ShopAdmin.h"
+	"ShopBalance.h"
+	"staff.h"
+	"purchaseWrite.h"
+	"customerWrite.h"
+	"searchBill.h"
+	"welcome.h"
+	"clearScreen.h"
+
+1599755003 c:\users\minha\desktop\desktop_files\oop project\iut_cds\include\login.h
+	"staff.h"
+	<bits/stdc++.h>
+	<conio.h>
+	"people.h"
+	"mainMenu.h"
+	"ShopAdmin.h"
+
+1599033605 c:\users\minha\desktop\desktop_files\oop project\iut_cds\include\staff.h
+	<bits/stdc++.h>
+	"People.h"
+
+1599632298 c:\users\minha\desktop\desktop_files\oop project\iut_cds\include\people.h
+	<bits/stdc++.h>
+
+1599719282 c:\users\minha\desktop\desktop_files\oop project\iut_cds\include\mainmenu.h
+	<bits/stdc++.h>
+	"billingMenu.h"
+	"stockData.h"
+	"stockPurchase.h"
+	"option.h"
+	"profitMenu.h"
+	"ending.h"
+
+1599718725 c:\users\minha\desktop\desktop_files\oop project\iut_cds\include\billingmenu.h
+	<bits/stdc++.h>
+	"customer.h"
+
+1599718656 c:\users\minha\desktop\desktop_files\oop project\iut_cds\include\stockdata.h
+	<bits/stdc++.h>
+	"grocery.h"
+
+1599718725 c:\users\minha\desktop\desktop_files\oop project\iut_cds\include\stockpurchase.h
+	<bits/stdc++.h>
+	"purchase.h"
+	"grocery.h"
+
+1599759375 c:\users\minha\desktop\desktop_files\oop project\iut_cds\include\purchase.h
+	"grocery.h"
+
+1599719282 c:\users\minha\desktop\desktop_files\oop project\iut_cds\include\option.h
+	<bits/stdc++.h>
+	"staff.h"
+	"ShopAdmin.h"
+
+1599632298 c:\users\minha\desktop\desktop_files\oop project\iut_cds\include\shopadmin.h
+	"People.h"
+
+1599759464 c:\users\minha\desktop\desktop_files\oop project\iut_cds\include\profitmenu.h
+	"ShopBalance.h"
+
+1599163713 c:\users\minha\desktop\desktop_files\oop project\iut_cds\include\shopbalance.h
+	<bits/stdc++.h>
+
+1599755707 c:\users\minha\desktop\desktop_files\oop project\iut_cds\include\purchasewrite.h
+	<bits/stdc++.h>
+	"purchase.h"
+	"grocery.h"
+	"Date.h"
+	"ShopBalance.h"
+
+1599761322 c:\users\minha\desktop\desktop_files\oop project\iut_cds\include\customerwrite.h
+	<bits/stdc++.h>
+	"grocery.h"
+	"customer.h"
+	"Date.h"
+
+1599761854 c:\users\minha\desktop\desktop_files\oop project\iut_cds\include\searchbill.h
+	<bits/stdc++.h>
+	"customer.h"
+	"grocery.h"
+
+1599759375 source:c:\users\minha\desktop\desktop_files\oop project\iut_cds\src\purchase.cpp
+	<bits/stdc++.h>
+	"purchase.h"
+	"grocery.h"
+	"Date.h"
+
+1599646777 source:c:\users\minha\desktop\desktop_files\oop project\iut_cds\src\shopadmin.cpp
+	"ShopAdmin.h"
+	<iostream>
+	<string>
+	<string.h>
+	<fstream>
+	<iomanip>
+
+1599762097 source:c:\users\minha\desktop\desktop_files\oop project\iut_cds\src\shopbalance.cpp
+	"ShopBalance.h"
+	<bits/stdc++.h>
+	"purchase.h"
+	"customer.h"
+
+1599658758 source:c:\users\minha\desktop\desktop_files\oop project\iut_cds\src\staff.cpp
+	<bits/stdc++.h>
+	"staff.h"
+
+1599632298 source:c:\users\minha\desktop\desktop_files\oop project\iut_cds\src\people.cpp
+	<bits/stdc++.h>
+	<conio.h>
+	"People.h"
+
+1599661812 c:\users\minha\desktop\desktop_files\oop project\iut_cds\include\ending.h
+	<bits/stdc++.h>
+	<conio.h>
+
+1599661812 c:\users\minha\desktop\desktop_files\oop project\iut_cds\include\welcome.h
+	<bits/stdc++.h>
+	<conio.h>
+
+1599718479 c:\users\minha\desktop\desktop_files\oop project\iut_cds\include\clearscreen.h
+	<bits/stdc++.h>
+	<conio.h>
+
