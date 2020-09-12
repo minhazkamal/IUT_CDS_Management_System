@@ -27,3 +27,4 @@ The system allows two types of users: Admin and Staff. Admin is at the top of th
 -Selling products to customersPurchase stock from associated dealers
 -Purchase stock from associated dealers
 -Create, Read, Update and Delete (CRUD) operation on inventory management system
+-
