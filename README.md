@@ -11,7 +11,7 @@ The given project is a shop  management system that is labeled to be used in IUT
 
 The system allows two types of users: Admin and Staff. Admin is at the top of the hierarchy and all the staff are below admin. No further hierarchy is maintained for the staff due to simple policies of a grocery shop. Due to this hierarchy, the features of “Staff”  will just be the subset of the features of “Admin”.
 
-#### Features available for Admin
+#### Features available for ADMIN:
 
 - Login operation using providing proper credentials
 - Changing the credentials of its own
@@ -23,3 +23,14 @@ The system allows two types of users: Admin and Staff. Admin is at the top of th
 - Selling products to customers
 - Purchase stock from associated dealers
 - Create, Read, Update and Delete (CRUD) operation on inventory management system
+
+#### Features available for STAFF:
+
+- Login operation using providing proper credentials
+- Changing the credentials of its own
+- Selling products to customersPurchase stock from associated dealers
+- Purchase stock from associated dealers
+- Create, Read, Update and Delete (CRUD) operation on inventory management system
+
+
+
